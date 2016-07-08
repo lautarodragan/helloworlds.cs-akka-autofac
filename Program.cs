@@ -32,10 +32,10 @@ namespace LautaroDragan.Samples.AutofacAkka
                 Console.WriteLine("Press ESC to exit.");
                 Console.WriteLine("Press any other key to attack the enemy!");
                 Console.WriteLine();
-                do
+                while (Console.ReadKey(true).Key != ConsoleKey.Escape)
                 {
                    heroActor.Tell(new AttackMessage());
-                } while (Console.ReadKey(true).Key != ConsoleKey.Escape);
+                }
 
             }
         }
