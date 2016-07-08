@@ -1,4 +1,4 @@
-# cs-autofac-akka
+# c#-akka-autofac
 Sample Akka.NET + Autofac implementation in C#
 
 This is a working example of doing Dependency Injection in an application that uses the Akka.NET framework, using the Autofac DI framework.
