@@ -8,8 +8,10 @@ We're using [Akka.DI.AutoFac](https://github.com/akkadotnet/Akka.DI.AutoFac) for
 ## Running the app
 This sample works like a basic [RPG battle](https://www.google.com.ar/search?q=rpg+battle&tbm=isch).
 When you run the app, you'll see two messages on the screen:
+>Wild Skeleton appeared!  
+>Press any key to attack the enemy!  
 >Press ESC to exit.
->Press any other key to attack the enemy!
+
 
 Go on ahead and press the space key (any key will do but I like the spacebar :) and then the following message will appear:
 >Attacking the enemy!  
