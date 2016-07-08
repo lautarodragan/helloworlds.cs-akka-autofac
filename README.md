@@ -6,7 +6,7 @@ This is a working example of doing Dependency Injection in an application that u
 We're using [Akka.DI.AutoFac](https://github.com/akkadotnet/Akka.DI.AutoFac) for this example, but building a custom DependencyResolver could be a better idea.
  
 ## Running the app
-This sample works like a basic RPG battle.
+This sample works like a basic [RPG battle](https://www.google.com.ar/search?q=rpg+battle&tbm=isch).
 When you run the app, you'll see two messages on the screen:
 >Press ESC to exit.
 >Press any other key to attack the enemy!
